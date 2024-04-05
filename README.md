@@ -22,7 +22,7 @@
 >ROUTING COST: 400
 
 ## Screenshot
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Azure/main/Screenshot/1.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Spectralis/main/Screenshot/1.png)
 
 ## Special thanks
 
