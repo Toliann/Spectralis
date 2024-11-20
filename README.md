@@ -7,7 +7,7 @@
 
 >DESIGNATION: Spectralis
 
->RISK LEVEL: A
+>RISK LEVEL: B+
 
 >POPULATION: None, abandoned necropolis.
 
@@ -19,10 +19,12 @@
 
 >HISTORY: Spectralis stands as a relic of bygone eras, preserving the memories of the departed
 
->ROUTING COST: 400
+>ROUTING COST: 290
 
 ## Screenshot
 ![Screenshot_1](https://raw.githubusercontent.com/Toliann/Spectralis/main/Screenshot/1.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Spectralis/refs/heads/main/Screenshot/2.png)
+
 
 ## Special thanks
 
@@ -30,4 +32,5 @@
 
 #
 ### My discord - tolian
+- My discord server - [Tolian Serv](https://discord.gg/ybjPfxCKZX)
 
