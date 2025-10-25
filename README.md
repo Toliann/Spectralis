@@ -22,8 +22,12 @@
 >ROUTING COST: 290
 
 ## Screenshot
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Spectralis/main/Screenshot/1.png)
 ![Screenshot_1](https://raw.githubusercontent.com/Toliann/Spectralis/refs/heads/main/Screenshot/2.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Spectralis/refs/heads/main/Screenshot/3.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Spectralis/refs/heads/main/Screenshot/4.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Spectralis/refs/heads/main/Screenshot/5.png)
+
+
 
 
 ## Special thanks
